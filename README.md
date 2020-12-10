@@ -1,6 +1,6 @@
 ## Management System
 
-본 프로젝트 생선
+본 프로젝트 생성
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
